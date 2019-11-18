@@ -17,6 +17,8 @@ To run an instance of the game of life execute
 
 * ./GameOfLife
 
+Here, 1's indicate living cells and 0's indicate dead cells.
+
 To run the tests, execute
 
 * ./GameOfLifeTest
